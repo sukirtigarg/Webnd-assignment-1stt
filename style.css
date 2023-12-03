@@ -1,0 +1,66 @@
+body{
+    background-color: rgb(118, 24, 118);
+}
+
+.lsb{
+    height: 700px;
+    width: 150px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    background-color: yellow;
+}
+
+.rsub{
+    height: 150px;
+    width: 600px;
+    background-color: yellow;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
+
+.rsb{
+    height: 700px;
+    width: 150px;
+    background-color: yellow;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
+
+.lsub{
+    height: 150px;
+    width: 600px;
+    background-color: yellow;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+.bb{
+    height: 150px;
+    width: 1400px;
+    background-color: yellow;
+    position: absolute;
+    bottom: 10px;
+    left: 30px;
+}
+
+.fs{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 320px;
+    left: 530px;
+    background-color: yellow;
+}
+
+.ss{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 320px;
+    right: 530px;
+    background-color: yellow; 
+}
